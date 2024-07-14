@@ -23,7 +23,7 @@
 ---
 ### About Me
 
-🚀 **Experienced Full Stack Web Developer** with 3.3 years of expertise, including 1.5 years in frontend development and 1.8 years in full-stack development. I'm proficient in crafting robust and scalable web applications, delivering high-quality code, and designing intuitive user interfaces.
+🚀 **Experienced Full Stack Developer** with 3.3 years of expertise, including 1.5 years in frontend development and 1.8 years in full-stack development. I'm proficient in crafting robust and scalable web applications, delivering high-quality code, and designing intuitive user interfaces.
 
 <!--💻 **Technical Skills**:
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js, Tailwind CSS, Material-UI, jQuery
