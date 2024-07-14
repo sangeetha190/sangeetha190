@@ -23,7 +23,7 @@
 
 🚀 **Experienced Full Stack Web Developer** with 3.3 years of expertise, including 1.5 years in frontend development and 1.8 years in full-stack development. I'm proficient in crafting robust and scalable web applications, delivering high-quality code, and designing intuitive user interfaces.
 
-💻 **Technical Skills**:
+<!--💻 **Technical Skills**:
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js, Tailwind CSS, Material-UI, jQuery
 - **Backend**: Node.js, PHP, Laravel, Express
 - **Databases**: MongoDB
@@ -31,7 +31,7 @@
 
 🎨 **UI/UX Design**: Passionate about creating seamless and visually appealing user experiences. I leverage my design skills to develop user-centric interfaces that enhance usability and engagement.
 
-🌟 **Portfolio**: Explore my projects and get a glimpse of my work. Let my portfolio showcase my capabilities and dedication to excellence in web development.
+🌟 **Portfolio**: Explore my projects and get a glimpse of my work. Let my portfolio showcase my capabilities and dedication to excellence in web development.-->
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
