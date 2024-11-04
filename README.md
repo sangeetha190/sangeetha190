@@ -23,7 +23,7 @@
 ---
 ### About Me
 
-🚀 **Experienced Full Stack Developer** with 3.3 years of expertise, including 1.5 years in frontend development and 1.8 years in full-stack development. I'm proficient in crafting robust and scalable web applications, delivering high-quality code, and designing intuitive user interfaces.
+🚀 **Experienced Full Stack Developer** with 3 years of expertise in designing and implementing responsive applications. Skilled in HTML, CSS, JavaScript, MongoDB, Bootstrap, Node.js, React.js, PHP, Laravel, and Figma, I create user-centered designs and maintain clean, efficient code. Known for a collaborative mindset and proactive problem-solving, I bring a commitment to high-quality, timely project delivery. Let my portfolio showcase the value I can bring to your team!
 
 <!--💻 **Technical Skills**:
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js, Tailwind CSS, Material-UI, jQuery
